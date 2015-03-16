@@ -1,6 +1,8 @@
 Spark
 =====
 
+No longer maintained
+
 [![Latest Stable Version](https://poser.pugx.org/skylarkelty/spark/v/stable.png)](https://packagist.org/packages/skylarkelty/spark)
 [![Build Status](https://travis-ci.org/SkylarKelty/Spark.png?branch=master)](https://travis-ci.org/SkylarKelty/Spark)
 
